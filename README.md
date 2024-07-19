@@ -15,12 +15,10 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a [Your Job T
 
 ## Achievements
 
-- Contributor to [Open Source Project](https://github.com/organization/project).
-- Featured in [Tech Blog](https://techblog.com/your-article).
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/your-username/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-M-Abuhajjar)](https://github.com/Ahmed-M-Abuhajjar/github-profile-trophy)
 
 ![Banner](https://path-to-your-banner-image.com/banner.png)
 
