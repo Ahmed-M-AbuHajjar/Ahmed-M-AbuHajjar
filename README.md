@@ -22,5 +22,15 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a [Your Job T
 
 ![Banner](https://raw.githubusercontent.com/Ahmed-M-AbuHajjar/Ahmed-M-Abuhajjar/master/banner.png)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=ffffff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000000)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=ffffff)
