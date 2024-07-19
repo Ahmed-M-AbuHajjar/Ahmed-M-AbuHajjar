@@ -16,7 +16,7 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a [Your Job T
 ## Achievements
 
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-M-Abuhajjar&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-M-Abuhajjar)](https://github.com/Ahmed-M-Abuhajjar/github-profile-trophy)
 
