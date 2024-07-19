@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a [Your Job Title] from [Your Location]. I specialize in [Your Skills]. I'm passionate about [Your Interests].
+I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software Developer from Egypt. I specialize in Web Development.
 
 ## Projects
 
