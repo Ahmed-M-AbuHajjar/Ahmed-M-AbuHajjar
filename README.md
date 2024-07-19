@@ -20,7 +20,7 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a [Your Job T
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmed-M-Abuhajjar)](https://github.com/Ahmed-M-Abuhajjar/github-profile-trophy)
 
-![Banner](https://imgur.com/a/YtO6SDy)
+![Banner](https://raw.githubusercontent.com/Ahmed-M-Abuhajjar/Ahmed-M-Abuhajjar/main/path/to/banner.png)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
