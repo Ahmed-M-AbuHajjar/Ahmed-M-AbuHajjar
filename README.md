@@ -4,8 +4,14 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a [Your Job T
 
 ## Projects
 
-- [Project 1](https://github.com/your-username/project1): Description of Project 1.
-- [Project 2](https://github.com/your-username/project2): Description of Project 2.
+- [My Portfolio](https://github.com/Ahmed-M-AbuHajjar/My_Portfolio): Portfolio for my projects.
+- [Students Dashboard](https://github.com/Ahmed-M-AbuHajjar/students-dashboard): Students Dashboard for E-learning Website.
+- [Todo List](https://github.com/Ahmed-M-AbuHajjar/Todo-list): Todo List Website.
+- [E-commerce](https://github.com/Ahmed-M-AbuHajjar/Angular-E-commerce): E-commerce using Angular + Node.js.
+- [Typescript OOP node.js](https://github.com/Ahmed-M-AbuHajjar/Typescript-oop-Node.js-simple-app): Node.js Backend Application using OOP concept + type orm.
+- [Quiz Game](https://github.com/Ahmed-M-AbuHajjar/Quiz-game): Simple Quiz Game using javascript.
+- [Weather Journal](https://github.com/Ahmed-M-AbuHajjar/Weather-Journal): Weather Journal App
+- [Movies App](https://github.com/Ahmed-M-AbuHajjar/Movies-App): Netflix like websites for movies.
 
 ## Achievements
 
