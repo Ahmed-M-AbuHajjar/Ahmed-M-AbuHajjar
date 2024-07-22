@@ -25,6 +25,7 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software De
 ## Skills
 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=ffffff)
