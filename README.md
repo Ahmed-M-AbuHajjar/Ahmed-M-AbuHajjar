@@ -58,4 +58,7 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software De
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=ffffff)
 ![pgAdmin](https://img.shields.io/badge/-pgAdmin-316192?logo=pgadmin&logoColor=ffffff)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&logoColor=ffffff)
+![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=ffffff)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=ffffff)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=ffffff)
 
