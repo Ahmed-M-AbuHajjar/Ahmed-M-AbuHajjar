@@ -55,3 +55,7 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software De
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=ffffff)
 ![Agile](https://img.shields.io/badge/-Agile-00B2FF?logo=agile&logoColor=ffffff)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=ffffff)
+![pgAdmin](https://img.shields.io/badge/-pgAdmin-316192?logo=pgadmin&logoColor=ffffff)
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&logoColor=ffffff)
+
