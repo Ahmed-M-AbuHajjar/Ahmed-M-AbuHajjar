@@ -13,15 +13,6 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software De
 - [Weather Journal](https://github.com/Ahmed-M-AbuHajjar/Weather-Journal): Weather Journal App
 - [Movies App](https://github.com/Ahmed-M-AbuHajjar/Movies-App): Netflix like websites for movies.
 
-## Activity Triangle
-
-| ![GitHub Followers](https://img.shields.io/github/followers/Ahmed-M-AbuHajjar?label=Followers) |
-|:--:|
-| **Followers** |
-
-| ![GitHub Stars](https://img.shields.io/github/stars/Ahmed-M-AbuHajjar?label=Stars) |
-|:--:|
-| **Stars** |
 
 | ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1234-green) |
 |:--:|
