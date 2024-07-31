@@ -14,11 +14,12 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software De
 - [Movies App](https://github.com/Ahmed-M-AbuHajjar/Movies-App): Netflix like websites for movies.
 
 
+## Achievements
+
 | ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1234-green) |
 |:--:|
 | **Contributions** |
 
-## Achievements
 
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-M-Abuhajjar&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=dark)
