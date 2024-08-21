@@ -30,7 +30,8 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software De
 
 ## Skills
 
-
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=ffffff)
