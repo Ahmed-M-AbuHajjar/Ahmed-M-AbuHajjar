@@ -53,7 +53,6 @@ I'm [Ahmed Moustafa Abu-Hajjar](https://github.com/your-username), a Software De
 ![Websockets](https://img.shields.io/badge/-Websockets-000000?logo=websockets&logoColor=ffffff)
 ![Nodemailer](https://img.shields.io/badge/-Nodemailer-00B2FF?logo=nodemailer&logoColor=ffffff)
 ![Multer](https://img.shields.io/badge/-Multer-6C2B5F?logo=multer&logoColor=ffffff)
-![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=ffffff)
 ![AJAX](https://img.shields.io/badge/-AJAX-0099FF?logo=ajax&logoColor=ffffff)
 ![Regex](https://img.shields.io/badge/-Regex-000000?logo=regex&logoColor=ffffff)
 ![OOP](https://img.shields.io/badge/-OOP-000000?logo=oop&logoColor=ffffff)
